@@ -1,0 +1,25 @@
+{
+  "name": "hexlet",
+  "version": "1.0.0",
+  "description": "'Мой учебный проект по Js на Hexlet'",
+  "keywords": [
+    "Js",
+    "Hexlet"
+  ],
+  "homepage": "https://github.com/chudo932/hexlet-js#readme",
+  "bugs": {
+    "url": "https://github.com/chudo932/hexlet-js/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chudo932/hexlet-js.git"
+  },
+  "license": "ISC",
+  "author": "'Pavel'",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  }
+}
